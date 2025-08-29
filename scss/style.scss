@@ -6,11 +6,13 @@
 body {
     margin: 0px;
     padding: 0px;
+    height: 100vh;
 }
 
 .content {
     display: flex;
     color: variables.$white;
+    height: 100%;
 }
 
 .greenBox {
